@@ -6017,7 +6017,7 @@ textDiv.id = "text";
 var welcomeText = document.createElement("p");
 welcomeText.style.fontFamily = "Quicksand";
 welcomeText.style.fontSize = "20px";
-welcomeText.textContent = "Designed By Thanh Hoang =))";
+welcomeText.textContent = "Designed By Trịnh Gia Huy Đẹp Trai =))";
 welcomeText.style.marginBottom = "10px"; // Khoảng cách dưới 10px
 
 
